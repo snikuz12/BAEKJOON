@@ -1,3 +1,4 @@
+package BASIC;
 import java.util.Scanner;
 
 public class BASIC2480 {
@@ -40,5 +41,6 @@ public class BASIC2480 {
                 return;
             }
         }
+        
     }
 }

@@ -1,3 +1,4 @@
+package BASIC;
 import java.util.Scanner;
 
 public class BASIC2444 {
@@ -34,5 +35,6 @@ public class BASIC2444 {
             y-=2;
             x+=1;
         }
+        scanner.close();
     }
 }

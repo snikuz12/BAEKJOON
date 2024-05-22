@@ -1,11 +1,11 @@
+package BASIC;
 import java.util.Scanner;
 
-public class BASIC18108 {
+public class BASIC10926 {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
+        String s=sc.nextLine();
 
-        int year=sc.nextInt();
-
-        System.out.println(year-543);
+        System.out.println(s + "?"+"?"+"!");
     }
 }
