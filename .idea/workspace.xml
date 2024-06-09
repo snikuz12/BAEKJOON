@@ -5,44 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18913620-1fd8-4c29-9123-6b4871a488fa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC1000.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC1000.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC1001.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC1001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC1008.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC1008.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10171.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10171.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10172.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10172.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10430.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10430.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10718.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10718.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10807.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10807.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10810.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10810.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10869.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10869.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10871.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10871.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10926.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10926.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10950.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10950.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10988.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10988.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10998.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC10998.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC11382.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC11382.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC1330.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC1330.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC14681.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC14681.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC1644.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC1644.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC18108.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC18108.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC1929.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC1929.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC1978.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC1978.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC2438.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC2438.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC2444.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC2444.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC2480.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC2480.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC2525.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC2525.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC25304.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC25304.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC25314.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC25314.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC2557.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC2557.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC2739.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC2739.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC2741.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC2741.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC2753.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC2753.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC5597.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC5597.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC8393.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC8393.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC9498.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BASIC/BASIC9498.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/data_Structure/DS9012.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/data_Structure/DS9012.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BASIC/BASIC10808.java" beforeDir="false" afterPath="$PROJECT_DIR$/BASIC/BASIC10808.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
