@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="18913620-1fd8-4c29-9123-6b4871a488fa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BASIC/BASIC1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/BASIC/BASIC1000.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +41,18 @@
     "Application.BASIC11365.executor": "Run",
     "Application.BASIC11943.executor": "Run",
     "Application.BASIC11945.executor": "Run",
+    "Application.BASIC11948.executor": "Run",
     "Application.BASIC1264.executor": "Run",
     "Application.BASIC15552.executor": "Run",
+    "Application.BASIC17388.executor": "Run",
     "Application.BASIC2439.executor": "Run",
     "Application.BASIC2440.executor": "Run",
+    "Application.BASIC24723.executor": "Run",
     "Application.BASIC2480.executor": "Run",
     "Application.BASIC3046.executor": "Run",
     "Application.BASIC5543.executor": "Run",
     "Application.BASIC5565.executor": "Run",
+    "Application.BASIC5575.executor": "Run",
     "Application.BASIC5717.executor": "Run",
     "Application.BASIC9316.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
