@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="18913620-1fd8-4c29-9123-6b4871a488fa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEKJOON.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BAEKJOON.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BAEKJOON/BAEKJOON.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BAEKJOON/BAEKJOON.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +41,18 @@
     "Application.BASIC10039.executor": "Run",
     "Application.BASIC10808.executor": "Run",
     "Application.BASIC11365.executor": "Run",
+    "Application.BASIC11659.executor": "Run",
+    "Application.BASIC11720.executor": "Run",
     "Application.BASIC11943.executor": "Run",
     "Application.BASIC11945.executor": "Run",
     "Application.BASIC11948.executor": "Run",
     "Application.BASIC1197.executor": "Run",
     "Application.BASIC1264.executor": "Run",
     "Application.BASIC13752.executor": "Run",
+    "Application.BASIC14489.executor": "Run",
+    "Application.BASIC1546.executor": "Run",
     "Application.BASIC15552.executor": "Run",
+    "Application.BASIC16486.executor": "Run",
     "Application.BASIC17388.executor": "Run",
     "Application.BASIC2083.executor": "Run",
     "Application.BASIC2439.executor": "Run",
@@ -53,6 +60,7 @@
     "Application.BASIC24723.executor": "Run",
     "Application.BASIC2480.executor": "Run",
     "Application.BASIC3046.executor": "Run",
+    "Application.BASIC4299.executor": "Run",
     "Application.BASIC4470.executor": "Run",
     "Application.BASIC5524.executor": "Run",
     "Application.BASIC5543.executor": "Run",
@@ -60,11 +68,18 @@
     "Application.BASIC5575.executor": "Run",
     "Application.BASIC5717.executor": "Run",
     "Application.BASIC9316.executor": "Run",
+    "Application.BASIC9461.executor": "Run",
+    "Application.jason.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Playdata/Desktop/BAEKJOON"
+    "last_opened_file_path": "C:/Users/Playdata/Desktop/java_grammer",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "애플리케이션.BASIC11659.executor": "Run"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
